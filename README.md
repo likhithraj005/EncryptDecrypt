@@ -86,6 +86,7 @@ Here's an example of how to use the application:
 <img width="1440" alt="output1" src="https://github.com/user-attachments/assets/27ebcaf9-a0e4-4a53-babe-714c772ea83a">
 <img width="1440" alt="output2" src="https://github.com/user-attachments/assets/b216f8b6-312a-4548-b388-615a22713256">
 <img width="1440" alt="output3" src="https://github.com/user-attachments/assets/af304958-6ee4-4144-8613-481ee03e1c95">
+<img width="1440" alt="Screenshot 2024-08-17 at 3 57 46 PM" src="https://github.com/user-attachments/assets/b2ece5a3-e48f-4a00-8d38-b3d193fe42a7">
 <img width="1440" alt="output4" src="https://github.com/user-attachments/assets/4cff7f20-7117-497d-82a7-44fc3e6c2398">
 <img width="1440" alt="output5" src="https://github.com/user-attachments/assets/53b08af0-f624-4368-8901-bc31b9d85ce0">
 <img width="1440" alt="output6" src="https://github.com/user-attachments/assets/148134cc-c9f8-4900-9f42-4dc656412291">
