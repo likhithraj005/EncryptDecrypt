@@ -83,6 +83,15 @@ Here's an example of how to use the application:
     ```
     
 ## Outputs
+<img width="1440" alt="output1" src="https://github.com/user-attachments/assets/27ebcaf9-a0e4-4a53-babe-714c772ea83a">
+<img width="1440" alt="output7" src="https://github.com/user-attachments/assets/2b8fa2d8-39da-43d6-a2f1-6d132766291a">
+<img width="1440" alt="output6" src="https://github.com/user-attachments/assets/148134cc-c9f8-4900-9f42-4dc656412291">
+<img width="1440" alt="output5" src="https://github.com/user-attachments/assets/53b08af0-f624-4368-8901-bc31b9d85ce0">
+<img width="1440" alt="output4" src="https://github.com/user-attachments/assets/4cff7f20-7117-497d-82a7-44fc3e6c2398">
+<img width="1440" alt="output3" src="https://github.com/user-attachments/assets/af304958-6ee4-4144-8613-481ee03e1c95">
+<img width="1440" alt="output2" src="https://github.com/user-attachments/assets/b216f8b6-312a-4548-b388-615a22713256">
+<img width="1440" alt="output8" src="https://github.com/user-attachments/assets/d7e41cbe-4e37-496c-92c4-ac3c2825eda9">
+<img width="1440" alt="output9" src="https://github.com/user-attachments/assets/241688d1-e1a7-454f-9970-801cf655f444">
 
 
 ## Contributing
