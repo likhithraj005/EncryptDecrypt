@@ -12,7 +12,7 @@ EncryptDecrypt is a Java application that allows users to securely hide and unhi
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java and Maven for dependencies
 - MySQL database
 
 ### Installation
