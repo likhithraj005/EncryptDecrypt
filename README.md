@@ -81,6 +81,9 @@ Here's an example of how to use the application:
     ```plaintext
     Enter the id of file to unhide
     ```
+    
+## Outputs
+
 
 ## Contributing
 
